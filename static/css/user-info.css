@@ -1,0 +1,84 @@
+.navbar-top-links {
+    margin-right: 0;
+}
+
+.navbar-top-links {
+    margin-right: 0;
+}
+
+.navbar-top-links li {
+    display: inline-block;
+}
+
+.navbar-top-links li:last-child {
+    margin-right: 15px;
+}
+
+.navbar-top-links li a {
+    padding: 15px;
+    min-height: 50px;
+}
+
+.navbar-top-links .dropdown-menu li {
+    display: block;
+}
+
+.navbar-top-links .dropdown-menu li:last-child {
+    margin-right: 0;
+}
+
+.navbar-top-links .dropdown-menu li a {
+    padding: 3px 20px;
+    min-height: 0;
+}
+
+.navbar-top-links .dropdown-menu li a div {
+    white-space: normal;
+}
+
+.navbar-top-links .dropdown-user {
+    right: 0;
+    left: auto;
+}
+
+.modal-body > .input-data {
+    padding-top: 20px;
+}
+
+.input-data.form-inline > .input-text.form-control {
+    margin-left: 100px;
+}
+
+.input-data.form-inline > .input-label.form-control {
+    width: 100px;
+}
+
+.input-data.form-inline > .default-label {
+    width: 100px;
+    color: red;
+}
+
+.input-data.form-inline > .extra-text.form-control {
+    margin-left: 100px;
+}
+
+.input-data.form-inline > .extra-label.form-control {
+    width: 100px;
+}
+
+.input-data.form-inline > .update-extra-text.form-control {
+    margin-left: 100px;
+}
+
+.input-data.form-inline > .update-extra-label.form-control {
+    width: 100px;
+}
+
+.select2-selection__rendered {
+    width: 172px;
+    height: 28px;
+}
+
+.select2.select2-container.select2-container--default{
+    margin-left: 100px;
+}

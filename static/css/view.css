@@ -1,0 +1,83 @@
+.navbar-top-links {
+    margin-right: 0;
+}
+
+.navbar-top-links {
+    margin-right: 0;
+}
+
+.navbar-top-links li {
+    display: inline-block;
+}
+
+.navbar-top-links li:last-child {
+    margin-right: 15px;
+}
+
+.navbar-top-links li a {
+    padding: 15px;
+    min-height: 50px;
+}
+
+.navbar-top-links .dropdown-menu li {
+    display: block;
+}
+
+.navbar-top-links .dropdown-menu li:last-child {
+    margin-right: 0;
+}
+
+.navbar-top-links .dropdown-menu li a {
+    padding: 3px 20px;
+    min-height: 0;
+}
+
+.navbar-top-links .dropdown-menu li a div {
+    white-space: normal;
+}
+
+.navbar-top-links .dropdown-user {
+    right: 0;
+    left: auto;
+}
+
+#graph {
+    height: 100%;
+}
+
+#static_graph {
+    height: 100%;
+}
+
+.axis path,
+.axis line {
+    fill: none;
+    stroke: black;
+    shape-rendering: crispEdges;
+}
+
+.axis text {
+    font-family: sans-serif;
+    font-size: 11px;
+}
+
+.btn-link:focus,
+.btn-link:active:focus,
+.btn-link.active:focus,
+.btn-link.focus,
+.btn-link:active.focus,
+.btn-link.active.focus {
+    outline: none;
+}
+
+.fa.fa-expand.fa-fw {
+    float: right;
+    border: 1px solid #e6e9ef;
+}
+
+.fa.fa-compress.fa-fw {
+    float: right;
+    border: 1px solid #e6e9ef;
+}
+
+
